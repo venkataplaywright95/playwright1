@@ -1,0 +1,17 @@
+{
+    "username": "venkatareddy@gmail.com",
+    "password": "venkat",
+    "name": "Venkata reddy",
+    "Interest": [
+        "Cypress",
+        "Java",
+        "API",
+        "gender:"
+    ],
+    "gender": "Male",
+    "Addresss": {
+        "area": "kanigiri",
+        "city": "Hyd",
+        "pincode": 500072
+    }
+}

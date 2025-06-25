@@ -1,0 +1,15 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="19.055117000000003">
+<testsuite name="hooks.spec.js" timestamp="2025-05-07T04:24:40.634Z" hostname="chromium" tests="1" failures="0" skipped="0" time="14.716" errors="0">
+<testcase name="Amazon" classname="hooks.spec.js" time="14.716">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\hooks-Amazon-chromium\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\hooks-Amazon-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\hooks-Amazon-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
